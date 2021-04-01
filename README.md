@@ -6,7 +6,7 @@ Job Oriented Program - nCodeIT - Repository
 * You have to execute the commands on the linux environment to get answers to some of the questions 
 
 ## step-by-step
-* There are 10 questions in the quiz. Launch quiz at https://quizizz.com/join?gc=46032018
+* There are 10 questions in the quiz. Launch quiz at https://quizizz.com/join?gc=19451026
 
 * Launch a Linux server environment at https://katacoda.com/ncodeit/scenarios/jop-test  
 * read the instuctions and click __Start Scenario__ __NOTE__: It takes couple of minutes for the server to confiure. Wait till you see the message "echo "Hurrey.. Your environment is ready. Proceed with activities now"" 

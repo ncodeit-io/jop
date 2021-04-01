@@ -3,6 +3,7 @@ Job Oriented Program - nCodeIT - Repository
 
 ## Instructions for launching the Basic DevOps & Cloud skills 
 * This is a quiz based test. Answers to the questions should be provided based on the Linux environment provided to you. 
+* You have to execute the commands on the linux environment to get answers to some of the questions 
 
 ## step-by-step
 * There are 10 questions in the quiz. 
